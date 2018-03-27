@@ -1,5 +1,4 @@
 import cv2                            # importing Python OpenCV
-from datetime import datetime         # importing datetime for naming files w/ timestamp
 import imutils
 
 delta_thresh = 5
